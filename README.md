@@ -2,7 +2,7 @@
 Supervised Machine Learning -- Classification:
 
 1) Loan approval (German_Credit_Loan_Approval): <br>
-Logistic Regression has been leveraged to identify the probability of defaulting on a loan for clients of a certain German bank,
+Logistic regression has been leveraged to identify the probability of defaulting on a loan for clients of a certain German bank,
 using parameters such as size of their checking and saving accounts, credit amount, job and housing status as predictors. <br>
 Key tools: Logistic Regression, receiver operating characteristic curves, precision-recall curves <br>
 Libraries: statsmodels.api, statsmodels.stats, scikit-learn, seaborn, matplotlib, numpy, pandas
