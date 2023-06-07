@@ -21,3 +21,11 @@ identifying the customers with high chance of cancellation. <br>
 Key tools: Logistic Regression, Decision Trees, hyperparameter tuning <br>
 Libraries: statsmodels.api, statsmodels.stats, scikit-learn, seaborn, matplotlib, numpy, pandas
 
+1) Spam Detection of Text Messages (Ham_Spam_Identifier): <br>
+Support vector machines and naive Bayes algorithm have been leveraged to develop classifiers capable of deciding whether
+a text message is spam or not. The models have been optimized using hyperparameter tuning, and the final models
+have been productionized using scikit-learn pipeline. <br>
+Key tools: Natural Language Processing (TF-IDF Vectorization), Support Vector Machines, Naive Bayes Classifers, hyperparameter tuning <br>
+Libraries: scikit-learn, scikit-learn.feature_extraction, scikit-learn.pipeline, seaborn, matplotlib, numpy, pandas
+
+
